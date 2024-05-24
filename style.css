@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(rgb(141, 250, 141),rgb(128, 223, 240)
+    );
+}
+#score{
+    font-size: 25px;
+    margin-left: 25px;
+    float:left;
+    font-style:bold;
+
+}
+#timer{
+    font-size: 25px;
+    float:right;
+    margin-right: 25px;
+    font-style: bold;
+}
+#sketch_to_be_drawn{
+    font-size: 35px;
+    font-style:bold;
+    color: red;
+}
+canvas{
+    margin-top: 50px;
+    border-radius: 5px;
+}
